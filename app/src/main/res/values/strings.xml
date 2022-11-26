@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework2Activity</string>
+    <string name="activity_button_second_screen">Нажми для перехода на следующий экран</string>
+    <string name="picture_second_screen">imageSecondScreen</string>
+</resources>
